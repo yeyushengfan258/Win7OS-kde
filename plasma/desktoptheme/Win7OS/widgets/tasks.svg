@@ -1,0 +1,4857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="tasks.svg"
+   viewBox="0 0 144 126"
+   version="1.0"
+   height="126"
+   width="144"
+   id="svg2">
+  <metadata
+     id="metadata719">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox="true"
+     showguides="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="35.453633"
+     inkscape:cx="56.386958"
+     inkscape:zoom="18.777614"
+     showgrid="true"
+     id="namedview717"
+     inkscape:window-height="1006"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8">
+    <inkscape:grid
+       id="grid1524"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="null">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1678">
+      <stop
+         style="stop-color:#eaeaea;stop-opacity:1"
+         offset="0"
+         id="stop1674" />
+      <stop
+         style="stop-color:#eaeaea;stop-opacity:0.5"
+         offset="1"
+         id="stop1676" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1683"
+       inkscape:collect="always">
+      <stop
+         id="stop1679"
+         offset="0"
+         style="stop-color:#eaeaea;stop-opacity:1" />
+      <stop
+         id="stop1681"
+         offset="1"
+         style="stop-color:#eaeaea;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1655">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:0.502"
+         offset="0"
+         id="stop1651" />
+      <stop
+         style="stop-color:#323232;stop-opacity:0.502"
+         offset="1"
+         id="stop1653" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1649">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:0.502"
+         offset="0"
+         id="stop1645" />
+      <stop
+         style="stop-color:#323232;stop-opacity:0.502"
+         offset="1"
+         id="stop1647" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1643">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:0.502"
+         offset="0"
+         id="stop1639" />
+      <stop
+         style="stop-color:#323232;stop-opacity:0.502"
+         offset="1"
+         id="stop1641" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1637">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:0.502"
+         offset="0"
+         id="stop1633" />
+      <stop
+         style="stop-color:#323232;stop-opacity:0.502"
+         offset="1"
+         id="stop1635" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1631">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:0.502"
+         offset="0"
+         id="stop1627" />
+      <stop
+         style="stop-color:#323232;stop-opacity:0.502"
+         offset="1"
+         id="stop1629" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1625">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:0.502"
+         offset="0"
+         id="stop1621" />
+      <stop
+         style="stop-color:#323232;stop-opacity:0.502"
+         offset="1"
+         id="stop1623" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1619">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:0.502"
+         offset="0"
+         id="stop1615" />
+      <stop
+         style="stop-color:#323232;stop-opacity:0.502"
+         offset="1"
+         id="stop1617" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1571"
+       inkscape:collect="always">
+      <stop
+         id="stop1567"
+         offset="0"
+         style="stop-color:#fafafa;stop-opacity:0.502" />
+      <stop
+         id="stop1569"
+         offset="1"
+         style="stop-color:#323232;stop-opacity:0.502" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">
+       
+      .ColorScheme-Text {
+        
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonFocus {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus {
+        color:#3daee9;
+      }
+      .ColorScheme-Text {
+        
+      }
+      .ColorScheme-NeutralText {
+        color:#f67400;
+      }
+      .ColorScheme-PositiveText {
+        color:#27ae60;
+      }
+      
+    </style>
+    <style
+       type="text/css"
+       id="tasks-colors">
+      
+      .ColorScheme-Attention {
+        color:#f67400;
+      }
+      
+    </style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       id="linearGradient1549"
+       xlink:href="#linearGradient1571"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       id="linearGradient1565"
+       xlink:href="#linearGradient1655"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       id="linearGradient1573"
+       xlink:href="#linearGradient1649"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       id="linearGradient1581"
+       xlink:href="#linearGradient1643"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       id="linearGradient1589"
+       xlink:href="#linearGradient1637"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       id="linearGradient1597"
+       xlink:href="#linearGradient1631"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       id="linearGradient1605"
+       xlink:href="#linearGradient1625"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       id="linearGradient1613"
+       xlink:href="#linearGradient1619"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="122"
+       x2="67"
+       y1="106"
+       x1="38"
+       id="linearGradient1685"
+       xlink:href="#linearGradient1683"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1823"
+       xlink:href="#linearGradient1637"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1825"
+       xlink:href="#linearGradient1649"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1827"
+       xlink:href="#linearGradient1643"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1829"
+       xlink:href="#linearGradient1625"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1831"
+       xlink:href="#linearGradient1571"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1833"
+       xlink:href="#linearGradient1619"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="122"
+       x2="67"
+       y1="106"
+       x1="38"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1835"
+       xlink:href="#linearGradient1683"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1837"
+       xlink:href="#linearGradient1631"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="125"
+       x2="71"
+       y1="106"
+       x1="37"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1839"
+       xlink:href="#linearGradient1655"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1637"
+       id="linearGradient1656"
+       gradientUnits="userSpaceOnUse"
+       x1="37"
+       y1="106"
+       x2="71"
+       y2="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1649"
+       id="linearGradient1658"
+       gradientUnits="userSpaceOnUse"
+       x1="37"
+       y1="106"
+       x2="71"
+       y2="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1643"
+       id="linearGradient1660"
+       gradientUnits="userSpaceOnUse"
+       x1="37"
+       y1="106"
+       x2="71"
+       y2="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1625"
+       id="linearGradient1662"
+       gradientUnits="userSpaceOnUse"
+       x1="37"
+       y1="106"
+       x2="71"
+       y2="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1571"
+       id="linearGradient1664"
+       gradientUnits="userSpaceOnUse"
+       x1="37"
+       y1="106"
+       x2="71"
+       y2="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1619"
+       id="linearGradient1666"
+       gradientUnits="userSpaceOnUse"
+       x1="37"
+       y1="106"
+       x2="71"
+       y2="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1678"
+       id="linearGradient1668"
+       gradientUnits="userSpaceOnUse"
+       x1="38"
+       y1="106"
+       x2="67"
+       y2="122" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1631"
+       id="linearGradient1670"
+       gradientUnits="userSpaceOnUse"
+       x1="37"
+       y1="106"
+       x2="71"
+       y2="125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1655"
+       id="linearGradient1672"
+       gradientUnits="userSpaceOnUse"
+       x1="37"
+       y1="106"
+       x2="71"
+       y2="125" />
+  </defs>
+  <g
+     id="north-focus-left">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="25"
+       x="3"
+       class="ColorScheme-ButtonFocus"
+       id="rect4945-9-2-4" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="25"
+       x="2"
+       class="ColorScheme-ButtonFocus"
+       id="rect4949-9-2-9" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="25"
+       x="1"
+       id="rect4951-3-2-7" />
+  </g>
+  <g
+     id="north-focus-right">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="25"
+       x="31"
+       class="ColorScheme-ButtonFocus"
+       id="rect4945-8-1" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="25"
+       x="33"
+       class="ColorScheme-ButtonFocus"
+       id="rect4949-5-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="25"
+       x="34"
+       id="rect4951-5-3" />
+  </g>
+  <g
+     id="north-focus-center">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="26"
+       y="25"
+       x="5"
+       class="ColorScheme-ButtonFocus"
+       id="rect4957-0-5" />
+  </g>
+  <g
+     id="north-focus-top">
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="23"
+       x="5"
+       class="ColorScheme-ButtonFocus"
+       id="rect4997-3-9" />
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="22"
+       x="5"
+       class="ColorScheme-ButtonFocus"
+       id="rect4999-2-9" />
+  </g>
+  <g
+     id="north-focus-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="22"
+       x="1"
+       id="rect4369-7-5-09-7-4" />
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="22"
+       x="2"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-7-5" />
+  </g>
+  <g
+     id="north-focus-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="22"
+       x="34"
+       id="rect4369-7-5-0-18-3" />
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="22"
+       x="31"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-7-6" />
+  </g>
+  <g
+     id="north-focus-bottom">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="38"
+       x="5"
+       class="ColorScheme-ButtonFocus"
+       id="rect4997-2-6-2" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="40"
+       x="5"
+       class="ColorScheme-ButtonFocus"
+       id="rect4999-0-5-7" />
+  </g>
+  <g
+     id="north-focus-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="38"
+       x="1"
+       id="rect4369-7-5-0-5-9-7-9" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="38"
+       x="2"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-6-8-9" />
+  </g>
+  <g
+     id="north-focus-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="38"
+       x="34"
+       id="rect4369-7-5-0-5-9-7-2-5" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="38"
+       x="31"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-6-8-5-7" />
+  </g>
+  <g
+     id="north-hover-left">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="67"
+       x="3"
+       class="ColorScheme-ButtonHover"
+       id="rect4945-9-2-49" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="67"
+       x="2"
+       class="ColorScheme-ButtonHover"
+       id="rect4949-9-2-7" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="67"
+       x="1"
+       id="rect4951-3-2-72" />
+  </g>
+  <g
+     id="north-hover-right">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="67"
+       x="31"
+       class="ColorScheme-ButtonHover"
+       id="rect4945-8-19" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="67"
+       x="33"
+       class="ColorScheme-ButtonHover"
+       id="rect4949-5-50" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="67"
+       x="34"
+       id="rect4951-5-6" />
+  </g>
+  <g
+     id="north-hover-center">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="26"
+       y="67"
+       x="5"
+       class="ColorScheme-ButtonHover"
+       id="rect4957-0-0" />
+  </g>
+  <g
+     id="north-hover-top">
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="65"
+       x="5"
+       class="ColorScheme-ButtonHover"
+       id="rect4997-3-95" />
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="64"
+       x="5"
+       class="ColorScheme-ButtonHover"
+       id="rect4999-2-4" />
+  </g>
+  <g
+     id="north-hover-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="64"
+       x="1"
+       id="rect4369-7-5-09-7-47" />
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="64"
+       x="2"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-7-4" />
+  </g>
+  <g
+     id="north-hover-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="64"
+       x="34"
+       id="rect4369-7-5-0-18-1" />
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="64"
+       x="31"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-7-7" />
+  </g>
+  <g
+     id="north-hover-bottom">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="80"
+       x="5"
+       class="ColorScheme-ButtonHover"
+       id="rect4997-2-6-1" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="82"
+       x="5"
+       class="ColorScheme-ButtonHover"
+       id="rect4999-0-5-05" />
+  </g>
+  <g
+     id="north-hover-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="80"
+       x="1"
+       id="rect4369-7-5-0-5-9-7-4" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="80"
+       x="3"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-6-8-91" />
+    <path
+       d="m 2,80 0,2 0,1 3,0 0,-1 -2,0 0,-2 z"
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonHover"
+       id="path3643-64" />
+  </g>
+  <g
+     id="north-hover-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="80"
+       x="34"
+       id="rect4369-7-5-0-5-9-7-2-7" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="80"
+       x="31"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-6-8-5-72" />
+    <path
+       d="m 31,83 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonHover"
+       id="path3643-6-2" />
+  </g>
+  <g
+     id="north-attention-left">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="88"
+       x="3"
+       class="ColorScheme-Attention"
+       id="rect4945-9-2-6" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="88"
+       x="2"
+       class="ColorScheme-Attention"
+       id="rect4949-9-2-3" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="88"
+       x="1"
+       id="rect4951-3-2-4" />
+  </g>
+  <g
+     id="north-attention-right">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="88"
+       x="31"
+       class="ColorScheme-Attention"
+       id="rect4945-8-0" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="88"
+       x="33"
+       class="ColorScheme-Attention"
+       id="rect4949-5-3" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="88"
+       x="34"
+       id="rect4951-5-0" />
+  </g>
+  <g
+     id="north-attention-center">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="26"
+       y="88"
+       x="5"
+       class="ColorScheme-Attention"
+       id="rect4957-0-9" />
+  </g>
+  <g
+     id="north-attention-top">
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="86"
+       x="5"
+       class="ColorScheme-Attention"
+       id="rect4997-3-90" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="85"
+       x="5"
+       class="ColorScheme-Attention"
+       id="rect4999-2-8" />
+  </g>
+  <g
+     id="north-attention-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="85"
+       x="1"
+       id="rect4369-7-5-09-7-1" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="85"
+       x="2"
+       class="ColorScheme-Attention"
+       id="rect5003-5-7-25" />
+  </g>
+  <g
+     id="north-attention-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="85"
+       x="34"
+       id="rect4369-7-5-0-18-9" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="85"
+       x="31"
+       class="ColorScheme-Attention"
+       id="rect5003-7-0" />
+  </g>
+  <g
+     id="north-attention-bottom">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="101"
+       x="5"
+       class="ColorScheme-Attention"
+       id="rect4997-2-6-9" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="103"
+       x="5"
+       class="ColorScheme-Attention"
+       id="rect4999-0-5-5" />
+  </g>
+  <g
+     id="north-attention-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="101"
+       x="1"
+       id="rect4369-7-5-0-5-9-7-8" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="101"
+       x="2"
+       class="ColorScheme-Attention"
+       id="rect5003-5-6-8-7" />
+  </g>
+  <g
+     id="north-attention-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="101"
+       x="34"
+       id="rect4369-7-5-0-5-9-7-2-0" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="101"
+       x="31"
+       class="ColorScheme-Attention"
+       id="rect5003-5-6-8-5-4" />
+    <path
+       d="m 31,104 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Attention"
+       id="path3643-6-35" />
+  </g>
+  <g
+     id="hover-left">
+    <rect
+       style="opacity:0.8;fill:#ff7300;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="67"
+       x="39"
+       class="ColorScheme-ButtonHover"
+       id="rect4945-9-2-49-3" />
+    <rect
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="67"
+       x="38"
+       class="ColorScheme-ButtonHover"
+       id="rect4949-9-2-7-4" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="67"
+       x="37"
+       id="rect4951-3-2-72-8" />
+  </g>
+  <g
+     id="hover-right">
+    <rect
+       style="opacity:0.8;fill:#ff7300;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="67"
+       x="67"
+       class="ColorScheme-ButtonHover"
+       id="rect4945-8-19-4" />
+    <rect
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="67"
+       x="69"
+       class="ColorScheme-ButtonHover"
+       id="rect4949-5-50-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="67"
+       x="70"
+       id="rect4951-5-6-1" />
+  </g>
+  <g
+     id="hover-center">
+    <rect
+       style="opacity:0.8;fill:#ff7300;fill-opacity:1;stroke:none"
+       height="13"
+       width="26"
+       y="67"
+       x="41"
+       class="ColorScheme-ButtonHover"
+       id="rect4957-0-0-7" />
+  </g>
+  <g
+     id="hover-bottom">
+    <rect
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="80"
+       x="41"
+       class="ColorScheme-ButtonHover"
+       id="rect4997-3-95-8" />
+    <rect
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="82"
+       x="41"
+       class="ColorScheme-ButtonHover"
+       id="rect4999-2-4-8" />
+  </g>
+  <g
+     id="hover-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="80"
+       x="37"
+       id="rect4369-7-5-09-7-47-6" />
+    <rect
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="80"
+       x="38"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-7-4-8" />
+  </g>
+  <g
+     id="hover-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="80"
+       x="70"
+       id="rect4369-7-5-0-18-1-1" />
+    <rect
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="80"
+       x="67"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-7-7-2" />
+  </g>
+  <g
+     id="hover-top">
+    <rect
+       style="opacity:0.8;fill:#ff7300;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="65"
+       x="41"
+       class="ColorScheme-ButtonHover"
+       id="rect4997-2-6-1-1" />
+    <rect
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="64"
+       x="41"
+       class="ColorScheme-ButtonHover"
+       id="rect4999-0-5-05-0" />
+  </g>
+  <g
+     id="hover-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="64"
+       x="37"
+       id="rect4369-7-5-0-5-9-7-4-2" />
+    <rect
+       style="opacity:0.8;fill:#ff7300;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="65"
+       x="39"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-6-8-91-7" />
+    <path
+       d="m 38,67 0,-2 0,-1 3,0 0,1 -2,0 0,2 z"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonHover"
+       id="path3643-64-2" />
+  </g>
+  <g
+     id="hover-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="64"
+       x="70"
+       id="rect4369-7-5-0-5-9-7-2-7-4" />
+    <rect
+       style="opacity:0.8;fill:#ff7300;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="65"
+       x="67"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-6-8-5-72-3" />
+    <path
+       d="m 67,64 2,0 1,0 0,3 -1,0 0,-2 -2,0 z"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonHover"
+       id="path3643-6-2-6" />
+  </g>
+  <g
+     id="attention-left">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="88"
+       x="39"
+       class="ColorScheme-Attention"
+       id="rect4945-9-2-6-7" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="88"
+       x="38"
+       class="ColorScheme-Attention"
+       id="rect4949-9-2-3-6" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="88"
+       x="37"
+       id="rect4951-3-2-4-6" />
+  </g>
+  <g
+     id="attention-right">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="88"
+       x="67"
+       class="ColorScheme-Attention"
+       id="rect4945-8-0-2" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="88"
+       x="69"
+       class="ColorScheme-Attention"
+       id="rect4949-5-3-9" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="88"
+       x="70"
+       id="rect4951-5-0-2" />
+  </g>
+  <g
+     id="attention-center">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="13"
+       width="26"
+       y="88"
+       x="41"
+       class="ColorScheme-Attention"
+       id="rect4957-0-9-4" />
+  </g>
+  <g
+     id="attention-bottom">
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="101"
+       x="41"
+       class="ColorScheme-Attention"
+       id="rect4997-3-90-9" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="103"
+       x="41"
+       class="ColorScheme-Attention"
+       id="rect4999-2-8-6" />
+  </g>
+  <g
+     id="attention-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="101"
+       x="37"
+       id="rect4369-7-5-09-7-1-0" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="101"
+       x="38"
+       class="ColorScheme-Attention"
+       id="rect5003-5-7-25-3" />
+  </g>
+  <g
+     id="attention-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="101"
+       x="70"
+       id="rect4369-7-5-0-18-9-8" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="101"
+       x="67"
+       class="ColorScheme-Attention"
+       id="rect5003-7-0-4" />
+  </g>
+  <g
+     id="attention-top">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="86"
+       x="41"
+       class="ColorScheme-Attention"
+       id="rect4997-2-6-9-7" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="85"
+       x="41"
+       class="ColorScheme-Attention"
+       id="rect4999-0-5-5-7" />
+  </g>
+  <g
+     id="attention-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="85"
+       x="37"
+       id="rect4369-7-5-0-5-9-7-8-4" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="85"
+       x="38"
+       class="ColorScheme-Attention"
+       id="rect5003-5-6-8-7-0" />
+  </g>
+  <g
+     id="attention-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="85"
+       x="70"
+       id="rect4369-7-5-0-5-9-7-2-0-5" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="85"
+       x="67"
+       class="ColorScheme-Attention"
+       id="rect5003-5-6-8-5-4-8" />
+  </g>
+  <g
+     id="east-focus-left">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="26"
+       x="74"
+       class="ColorScheme-ButtonFocus"
+       id="rect4945-9-2-4-1-8" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="26"
+       x="73"
+       class="ColorScheme-ButtonFocus"
+       id="rect4949-9-2-9-0-6" />
+  </g>
+  <g
+     id="east-focus-right">
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="26"
+       x="104"
+       class="ColorScheme-ButtonFocus"
+       id="rect4945-8-1-3-0" />
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="26"
+       x="106"
+       class="ColorScheme-ButtonFocus"
+       id="rect4949-5-5-6-8" />
+  </g>
+  <g
+     id="east-focus-center">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="28"
+       y="26"
+       x="76"
+       class="ColorScheme-ButtonFocus"
+       id="rect4957-0-5-7-4" />
+  </g>
+  <g
+     id="east-focus-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="40"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="37"
+       x="76"
+       class="ColorScheme-ButtonFocus"
+       id="rect4997-3-9-4-2" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="39"
+       x="76"
+       class="ColorScheme-ButtonFocus"
+       id="rect4999-2-9-0-6" />
+  </g>
+  <g
+     id="east-focus-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="22"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2" />
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="23"
+       x="104"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-7-5-0-9" />
+  </g>
+  <g
+     id="east-focus-bottomright">
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="37"
+       x="104"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-7-6-8-3" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="40"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3" />
+  </g>
+  <g
+     id="east-focus-top">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="24"
+       x="76"
+       class="ColorScheme-ButtonFocus"
+       id="rect4997-2-6-2-7-7" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="23"
+       x="76"
+       class="ColorScheme-ButtonFocus"
+       id="rect4999-0-5-7-0-9" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="22"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9" />
+  </g>
+  <g
+     id="east-focus-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="22"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="24"
+       x="74"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-6-8-9-3-4" />
+    <path
+       d="m 73,26 0,-2 0,-1 3,0 0,1 -2,0 0,2 z"
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonFocus"
+       id="path3643-1-0-7" />
+  </g>
+  <g
+     id="east-focus-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="40"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="37"
+       x="74"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-6-8-5-7-4-2" />
+    <path
+       d="m 76,40 -2,0 -1,0 0,-3 1,0 0,2 2,0 z"
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonFocus"
+       id="path3643-6-3-5-7" />
+  </g>
+  <g
+     id="east-hover-left">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="68"
+       x="74"
+       class="ColorScheme-ButtonHover"
+       id="rect4945-9-2-4-1-8-3" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="68"
+       x="73"
+       class="ColorScheme-ButtonHover"
+       id="rect4949-9-2-9-0-6-5" />
+  </g>
+  <g
+     id="east-hover-right">
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="68"
+       x="104"
+       class="ColorScheme-ButtonHover"
+       id="rect4945-8-1-3-0-95" />
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="68"
+       x="106"
+       class="ColorScheme-ButtonHover"
+       id="rect4949-5-5-6-8-5" />
+  </g>
+  <g
+     id="east-hover-center">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="28"
+       y="68"
+       x="76"
+       class="ColorScheme-ButtonHover"
+       id="rect4957-0-5-7-4-4" />
+  </g>
+  <g
+     id="east-hover-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="82"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-1" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="79"
+       x="76"
+       class="ColorScheme-ButtonHover"
+       id="rect4997-3-9-4-2-9" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="81"
+       x="76"
+       class="ColorScheme-ButtonHover"
+       id="rect4999-2-9-0-6-2" />
+  </g>
+  <g
+     id="east-hover-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="64"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-8" />
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="65"
+       x="104"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-7-5-0-9-7" />
+  </g>
+  <g
+     id="east-hover-bottomright">
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="79"
+       x="104"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-7-6-8-3-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="82"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-0" />
+  </g>
+  <g
+     id="east-hover-top">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="66"
+       x="76"
+       class="ColorScheme-ButtonHover"
+       id="rect4997-2-6-2-7-7-4" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="65"
+       x="76"
+       class="ColorScheme-ButtonHover"
+       id="rect4999-0-5-7-0-9-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="64"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-9" />
+  </g>
+  <g
+     id="east-hover-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="64"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-94" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="66"
+       x="74"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-6-8-9-3-4-1" />
+    <path
+       d="m 73,68 0,-2 0,-1 3,0 0,1 -2,0 0,2 z"
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonHover"
+       id="path3643-1-0-7-4" />
+  </g>
+  <g
+     id="east-hover-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="82"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-3" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="79"
+       x="74"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-6-8-5-7-4-2-9" />
+    <path
+       d="m 76,82 -2,0 -1,0 0,-3 1,0 0,2 2,0 z"
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonHover"
+       id="path3643-6-3-5-7-5" />
+  </g>
+  <g
+     id="east-attention-left">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="89"
+       x="74"
+       class="ColorScheme-Attention"
+       id="rect4945-9-2-4-1-8-8" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="89"
+       x="73"
+       class="ColorScheme-Attention"
+       id="rect4949-9-2-9-0-6-1" />
+  </g>
+  <g
+     id="east-attention-right">
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="89"
+       x="104"
+       class="ColorScheme-Attention"
+       id="rect4945-8-1-3-0-0" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="89"
+       x="106"
+       class="ColorScheme-Attention"
+       id="rect4949-5-5-6-8-7" />
+  </g>
+  <g
+     id="east-attention-center">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="28"
+       y="89"
+       x="76"
+       class="ColorScheme-Attention"
+       id="rect4957-0-5-7-4-8" />
+  </g>
+  <g
+     id="east-attention-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="103"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-5" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="100"
+       x="76"
+       class="ColorScheme-Attention"
+       id="rect4997-3-9-4-2-6" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="102"
+       x="76"
+       class="ColorScheme-Attention"
+       id="rect4999-2-9-0-6-4" />
+  </g>
+  <g
+     id="east-attention-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="85"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-9" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="86"
+       x="104"
+       class="ColorScheme-Attention"
+       id="rect5003-5-7-5-0-9-23" />
+  </g>
+  <g
+     id="east-attention-bottomright">
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="100"
+       x="104"
+       class="ColorScheme-Attention"
+       id="rect5003-7-6-8-3-0" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="103"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-1" />
+  </g>
+  <g
+     id="east-attention-top">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="87"
+       x="76"
+       class="ColorScheme-Attention"
+       id="rect4997-2-6-2-7-7-54" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="86"
+       x="76"
+       class="ColorScheme-Attention"
+       id="rect4999-0-5-7-0-9-55" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="85"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-84" />
+  </g>
+  <g
+     id="east-attention-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="85"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-5" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="86"
+       x="73"
+       class="ColorScheme-Attention"
+       id="rect5003-5-6-8-9-3-4-6" />
+  </g>
+  <g
+     id="east-attention-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="103"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-31" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="100"
+       x="73"
+       class="ColorScheme-Attention"
+       id="rect5003-5-6-8-5-7-4-2-7" />
+  </g>
+  <g
+     id="west-focus-right">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="26"
+       x="140"
+       class="ColorScheme-ButtonFocus"
+       id="rect4945-9-2-4-1-8-5" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="26"
+       x="142"
+       class="ColorScheme-ButtonFocus"
+       id="rect4949-9-2-9-0-6-23" />
+  </g>
+  <g
+     id="west-focus-left">
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="26"
+       x="110"
+       class="ColorScheme-ButtonFocus"
+       id="rect4945-8-1-3-0-3" />
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="26"
+       x="109"
+       class="ColorScheme-ButtonFocus"
+       id="rect4949-5-5-6-8-59" />
+  </g>
+  <g
+     id="west-focus-center">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="28"
+       y="26"
+       x="112"
+       class="ColorScheme-ButtonFocus"
+       id="rect4957-0-5-7-4-7" />
+  </g>
+  <g
+     id="west-focus-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="40"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-8" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="37"
+       x="112"
+       class="ColorScheme-ButtonFocus"
+       id="rect4997-3-9-4-2-3" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="39"
+       x="112"
+       class="ColorScheme-ButtonFocus"
+       id="rect4999-2-9-0-6-5" />
+  </g>
+  <g
+     id="west-focus-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="22"
+       x="109"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-0" />
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="23"
+       x="109"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-7-5-0-9-9" />
+  </g>
+  <g
+     id="west-focus-bottomleft">
+    <rect
+       style="opacity:1;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="37"
+       x="109"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-7-6-8-3-3" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="40"
+       x="109.214"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-12" />
+  </g>
+  <g
+     id="west-focus-top">
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="24"
+       x="112"
+       class="ColorScheme-ButtonFocus"
+       id="rect4997-2-6-2-7-7-8" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="23"
+       x="112"
+       class="ColorScheme-ButtonFocus"
+       id="rect4999-0-5-7-0-9-0" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="22"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-7" />
+  </g>
+  <g
+     id="west-focus-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="22"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-0" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="24"
+       x="140"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-6-8-9-3-4-9" />
+    <path
+       d="m 143,26 0,-2 0,-1 -3,0 0,1 2,0 0,2 z"
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonFocus"
+       id="path3643-1-0-7-9" />
+  </g>
+  <g
+     id="west-focus-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="40"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-4" />
+    <rect
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="37"
+       x="140"
+       class="ColorScheme-ButtonFocus"
+       id="rect5003-5-6-8-5-7-4-2-2" />
+    <path
+       d="m 140,40 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonFocus"
+       id="path3643-6-3-5-7-8" />
+  </g>
+  <g
+     id="west-hover-right">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="68"
+       x="140"
+       class="ColorScheme-ButtonHover"
+       id="rect4945-9-2-4-1-8-3-6" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="68"
+       x="142"
+       class="ColorScheme-ButtonHover"
+       id="rect4949-9-2-9-0-6-5-6" />
+  </g>
+  <g
+     id="west-hover-left">
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="68"
+       x="110"
+       class="ColorScheme-ButtonHover"
+       id="rect4945-8-1-3-0-95-8" />
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="68"
+       x="109"
+       class="ColorScheme-ButtonHover"
+       id="rect4949-5-5-6-8-5-7" />
+  </g>
+  <g
+     id="west-hover-center">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="28"
+       y="68"
+       x="112"
+       class="ColorScheme-ButtonHover"
+       id="rect4957-0-5-7-4-4-6" />
+  </g>
+  <g
+     id="west-hover-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="82"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-1-2" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="79"
+       x="112"
+       class="ColorScheme-ButtonHover"
+       id="rect4997-3-9-4-2-9-6" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="81"
+       x="112"
+       class="ColorScheme-ButtonHover"
+       id="rect4999-2-9-0-6-2-0" />
+  </g>
+  <g
+     id="west-hover-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="64"
+       x="109"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-8-0" />
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="65"
+       x="109"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-7-5-0-9-7-2" />
+  </g>
+  <g
+     id="west-hover-bottomleft">
+    <rect
+       style="opacity:0.98999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="79"
+       x="109"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-7-6-8-3-5-9" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="82"
+       x="109.214"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-0-1" />
+  </g>
+  <g
+     id="west-hover-top">
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="66"
+       x="112"
+       class="ColorScheme-ButtonHover"
+       id="rect4997-2-6-2-7-7-4-5" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="65"
+       x="112"
+       class="ColorScheme-ButtonHover"
+       id="rect4999-0-5-7-0-9-5-1" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="64"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-9-6" />
+  </g>
+  <g
+     id="west-hover-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="64"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-94-0" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="66"
+       x="140"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-6-8-9-3-4-1-0" />
+    <path
+       d="m 143,68 0,-2 0,-1 -3,0 0,1 2,0 0,2 z"
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonHover"
+       id="path3643-1-0-7-4-9" />
+  </g>
+  <g
+     id="west-hover-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="82"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-3-3" />
+    <rect
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="79"
+       x="140"
+       class="ColorScheme-ButtonHover"
+       id="rect5003-5-6-8-5-7-4-2-9-4" />
+    <path
+       d="m 140,82 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="opacity:0.33999999;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-ButtonHover"
+       id="path3643-6-3-5-7-5-7" />
+  </g>
+  <g
+     id="west-attention-right">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="89"
+       x="140"
+       class="ColorScheme-Attention"
+       id="rect4945-9-2-4-1-8-8-0" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="89"
+       x="142"
+       class="ColorScheme-Attention"
+       id="rect4949-9-2-9-0-6-1-4" />
+  </g>
+  <g
+     id="west-attention-left">
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="89"
+       x="110"
+       class="ColorScheme-Attention"
+       id="rect4945-8-1-3-0-0-7" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="89"
+       x="109"
+       class="ColorScheme-Attention"
+       id="rect4949-5-5-6-8-7-7" />
+  </g>
+  <g
+     id="west-attention-center">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="11"
+       width="28"
+       y="89"
+       x="112"
+       class="ColorScheme-Attention"
+       id="rect4957-0-5-7-4-8-2" />
+  </g>
+  <g
+     id="west-attention-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="103"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-5-3" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="100"
+       x="112"
+       class="ColorScheme-Attention"
+       id="rect4997-3-9-4-2-6-4" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="102"
+       x="112"
+       class="ColorScheme-Attention"
+       id="rect4999-2-9-0-6-4-0" />
+  </g>
+  <g
+     id="west-attention-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="85"
+       x="109"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-9-9" />
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="86"
+       x="109"
+       class="ColorScheme-Attention"
+       id="rect5003-5-7-5-0-9-23-7" />
+  </g>
+  <g
+     id="west-attention-bottomleft">
+    <rect
+       style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="100"
+       x="109"
+       class="ColorScheme-Attention"
+       id="rect5003-7-6-8-3-0-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="103"
+       x="109.214"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-1-7" />
+  </g>
+  <g
+     id="west-attention-top">
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="87"
+       x="112"
+       class="ColorScheme-Attention"
+       id="rect4997-2-6-2-7-7-54-5" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="86"
+       x="112"
+       class="ColorScheme-Attention"
+       id="rect4999-0-5-7-0-9-55-3" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="85"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-84-8" />
+  </g>
+  <g
+     id="west-attention-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="85"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-5-5" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="87"
+       x="140"
+       class="ColorScheme-Attention"
+       id="rect5003-5-6-8-9-3-4-6-7" />
+    <path
+       d="m 143,89 0,-2 0,-1 -3,0 0,1 2,0 0,2 z"
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Attention"
+       id="path3643-1-0-7-8-1" />
+  </g>
+  <g
+     id="west-attention-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="103"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-31-2" />
+    <rect
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="100"
+       x="140"
+       class="ColorScheme-Attention"
+       id="rect5003-5-6-8-5-7-4-2-7-0" />
+    <path
+       d="m 140,103 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="opacity:0.16600001;fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Attention"
+       id="path3643-6-3-5-7-1-9" />
+  </g>
+  <g
+     id="north-progress-left">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="4"
+       x="3"
+       class="ColorScheme-PositiveText"
+       id="rect4945-9-2-4-9" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="4"
+       x="2"
+       class="ColorScheme-PositiveText"
+       id="rect4949-9-2-9-4" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="4"
+       x="1"
+       id="rect4951-3-2-7-3" />
+  </g>
+  <g
+     id="north-progress-right">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="4"
+       x="31"
+       class="ColorScheme-PositiveText"
+       id="rect4945-8-1-34" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="4"
+       x="33"
+       class="ColorScheme-PositiveText"
+       id="rect4949-5-5-3" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="4"
+       x="34"
+       id="rect4951-5-3-8" />
+  </g>
+  <g
+     id="north-progress-center">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="26"
+       y="4"
+       x="5"
+       class="ColorScheme-PositiveText"
+       id="rect4957-0-5-1" />
+  </g>
+  <g
+     id="north-progress-top">
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="2"
+       x="5"
+       class="ColorScheme-PositiveText"
+       id="rect4997-3-9-3" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="1"
+       x="5"
+       class="ColorScheme-PositiveText"
+       id="rect4999-2-9-8" />
+  </g>
+  <g
+     id="north-progress-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="1"
+       x="1"
+       id="rect4369-7-5-09-7-4-82" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="1"
+       x="2"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-7-5-7" />
+  </g>
+  <g
+     id="north-progress-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="1"
+       x="34"
+       id="rect4369-7-5-0-18-3-4" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="1"
+       x="31"
+       class="ColorScheme-PositiveText"
+       id="rect5003-7-6-1" />
+  </g>
+  <g
+     id="north-progress-bottom">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="17"
+       x="5"
+       class="ColorScheme-PositiveText"
+       id="rect4997-2-6-2-0" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="19"
+       x="5"
+       class="ColorScheme-PositiveText"
+       id="rect4999-0-5-7-7" />
+  </g>
+  <g
+     id="north-progress-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="17"
+       x="1"
+       id="rect4369-7-5-0-5-9-7-9-5" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="17"
+       x="3"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-6-8-9-0" />
+    <path
+       d="m 2,17 0,2 0,1 3,0 0,-1 -2,0 0,-2 z"
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-PositiveText"
+       id="path3643-1-9" />
+  </g>
+  <g
+     id="north-progress-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="17"
+       x="34"
+       id="rect4369-7-5-0-5-9-7-2-5-3" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="17"
+       x="31"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-6-8-5-7-8" />
+    <path
+       d="m 31,20 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-PositiveText"
+       id="path3643-6-3-7" />
+  </g>
+  <g
+     id="progress-left">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="4"
+       x="39"
+       class="ColorScheme-PositiveText"
+       id="rect4945-9-2-4-1-2" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="4"
+       x="38"
+       class="ColorScheme-PositiveText"
+       id="rect4949-9-2-9-0-1" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="4"
+       x="37"
+       id="rect4951-3-2-7-1-3" />
+  </g>
+  <g
+     id="progress-right">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="2"
+       y="4"
+       x="67"
+       class="ColorScheme-PositiveText"
+       id="rect4945-8-1-3-9" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="1"
+       y="4"
+       x="69"
+       class="ColorScheme-PositiveText"
+       id="rect4949-5-5-6-4" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="4"
+       x="70"
+       id="rect4951-5-3-6-7" />
+  </g>
+  <g
+     id="progress-center">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="13"
+       width="26"
+       y="4"
+       x="41"
+       class="ColorScheme-PositiveText"
+       id="rect4957-0-5-7-7" />
+  </g>
+  <g
+     id="progress-bottom">
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="17"
+       x="41"
+       class="ColorScheme-PositiveText"
+       id="rect4997-3-9-4-0" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="19"
+       x="41"
+       class="ColorScheme-PositiveText"
+       id="rect4999-2-9-0-5" />
+  </g>
+  <g
+     id="progress-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="17"
+       x="37"
+       id="rect4369-7-5-09-7-4-8-7" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="17"
+       x="38"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-7-5-0-8" />
+  </g>
+  <g
+     id="progress-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="17"
+       x="70"
+       id="rect4369-7-5-0-18-3-0-1" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="17"
+       x="67"
+       class="ColorScheme-PositiveText"
+       id="rect5003-7-6-8-0" />
+  </g>
+  <g
+     id="progress-top">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="26"
+       y="2"
+       x="41"
+       class="ColorScheme-PositiveText"
+       id="rect4997-2-6-2-7-9" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="26"
+       y="1"
+       x="41"
+       class="ColorScheme-PositiveText"
+       id="rect4999-0-5-7-0-7" />
+  </g>
+  <g
+     id="progress-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="1"
+       x="37"
+       id="rect4369-7-5-0-5-9-7-9-1-9" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="2"
+       x="39"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-6-8-9-3-7" />
+    <path
+       d="m 38,4 0,-2 0,-1 3,0 0,1 -2,0 0,2 z"
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-PositiveText"
+       id="path3643-1-0-3" />
+  </g>
+  <g
+     id="progress-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="1"
+       x="70"
+       id="rect4369-7-5-0-5-9-7-2-5-6-7" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="2"
+       x="67"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-6-8-5-7-4-0" />
+    <path
+       d="m 67,1 2,0 1,0 0,3 -1,0 0,-2 -2,0 z"
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-PositiveText"
+       id="path3643-6-3-5-2" />
+  </g>
+  <g
+     id="east-progress-left">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="5"
+       x="74"
+       class="ColorScheme-PositiveText"
+       id="rect4945-9-2-4-1-8-37" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="5"
+       x="73"
+       class="ColorScheme-PositiveText"
+       id="rect4949-9-2-9-0-6-7" />
+  </g>
+  <g
+     id="east-progress-right">
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="5"
+       x="104"
+       class="ColorScheme-PositiveText"
+       id="rect4945-8-1-3-0-1" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="5"
+       x="106"
+       class="ColorScheme-PositiveText"
+       id="rect4949-5-5-6-8-44" />
+  </g>
+  <g
+     id="east-progress-center">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="28"
+       y="5"
+       x="76"
+       class="ColorScheme-PositiveText"
+       id="rect4957-0-5-7-4-3" />
+  </g>
+  <g
+     id="east-progress-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="19"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-6" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="16"
+       x="76"
+       class="ColorScheme-PositiveText"
+       id="rect4997-3-9-4-2-5" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="18"
+       x="76"
+       class="ColorScheme-PositiveText"
+       id="rect4999-2-9-0-6-46" />
+  </g>
+  <g
+     id="east-progress-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="1"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-00" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="2"
+       x="104"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-7-5-0-9-1" />
+  </g>
+  <g
+     id="east-progress-bottomright">
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="16"
+       x="104"
+       class="ColorScheme-PositiveText"
+       id="rect5003-7-6-8-3-9" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="19"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-8" />
+  </g>
+  <g
+     id="east-progress-top">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="3"
+       x="76"
+       class="ColorScheme-PositiveText"
+       id="rect4997-2-6-2-7-7-77" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="2"
+       x="76"
+       class="ColorScheme-PositiveText"
+       id="rect4999-0-5-7-0-9-9" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="1"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-1" />
+  </g>
+  <g
+     id="east-progress-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="1"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-28" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="3"
+       x="74"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-6-8-9-3-4-89" />
+    <path
+       d="m 73,5 0,-2 0,-1 3,0 0,1 -2,0 0,2 z"
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-PositiveText"
+       id="path3643-1-0-7-94" />
+  </g>
+  <g
+     id="east-progress-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="19"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-07" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="16"
+       x="74"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-6-8-5-7-4-2-37" />
+    <path
+       d="m 76,19 -2,0 -1,0 0,-3 1,0 0,2 2,0 z"
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-PositiveText"
+       id="path3643-6-3-5-7-2" />
+  </g>
+  <g
+     id="west-progress-right">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="5"
+       x="140"
+       class="ColorScheme-PositiveText"
+       id="rect4945-9-2-4-1-8-5-5" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="5"
+       x="142"
+       class="ColorScheme-PositiveText"
+       id="rect4949-9-2-9-0-6-23-3" />
+  </g>
+  <g
+     id="west-progress-left">
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="2"
+       y="5"
+       x="110"
+       class="ColorScheme-PositiveText"
+       id="rect4945-8-1-3-0-3-5" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="1"
+       y="5"
+       x="109"
+       class="ColorScheme-PositiveText"
+       id="rect4949-5-5-6-8-59-4" />
+  </g>
+  <g
+     id="west-progress-center">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="11"
+       width="28"
+       y="5"
+       x="112"
+       class="ColorScheme-PositiveText"
+       id="rect4957-0-5-7-4-7-9" />
+  </g>
+  <g
+     id="west-progress-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="19"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-8-2" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="16"
+       x="112"
+       class="ColorScheme-PositiveText"
+       id="rect4997-3-9-4-2-3-5" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="18"
+       x="112"
+       class="ColorScheme-PositiveText"
+       id="rect4999-2-9-0-6-5-7" />
+  </g>
+  <g
+     id="west-progress-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="1"
+       x="109"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-0-1" />
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="2"
+       x="109"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-7-5-0-9-9-6" />
+  </g>
+  <g
+     id="west-progress-bottomleft">
+    <rect
+       style="opacity:0.61000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="3"
+       width="3"
+       y="16"
+       x="109"
+       class="ColorScheme-PositiveText"
+       id="rect5003-7-6-8-3-3-7" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="19"
+       x="109.214"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-12-7" />
+  </g>
+  <g
+     id="west-progress-top">
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="28"
+       y="3"
+       x="112"
+       class="ColorScheme-PositiveText"
+       id="rect4997-2-6-2-7-7-8-7" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="1"
+       width="28"
+       y="2"
+       x="112"
+       class="ColorScheme-PositiveText"
+       id="rect4999-0-5-7-0-9-0-6" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="1"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-7-4" />
+  </g>
+  <g
+     id="west-progress-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="1"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-0-2" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="3"
+       x="140"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-6-8-9-3-4-9-5" />
+    <path
+       d="m 143,5 0,-2 0,-1 -3,0 0,1 2,0 0,2 z"
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-PositiveText"
+       id="path3643-1-0-7-9-0" />
+  </g>
+  <g
+     id="west-progress-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="19"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-4-4" />
+    <rect
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       height="2"
+       width="2"
+       y="16"
+       x="140"
+       class="ColorScheme-PositiveText"
+       id="rect5003-5-6-8-5-7-4-2-2-3" />
+    <path
+       d="m 140,19 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="opacity:0.31000001;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       class="ColorScheme-PositiveText"
+       id="path3643-6-3-5-7-8-5" />
+  </g>
+  <g
+     id="north-minimized-left">
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="2"
+       y="109"
+       x="3"
+       class="ColorScheme-Text"
+       id="rect4945-9-2" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="109"
+       x="2"
+       class="ColorScheme-Text"
+       id="rect4949-9-2" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="109"
+       x="1"
+       id="rect4951-3-2" />
+  </g>
+  <g
+     id="north-minimized-right">
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="2"
+       y="109"
+       x="31"
+       class="ColorScheme-Text"
+       id="rect4945-8" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="109"
+       x="33"
+       class="ColorScheme-Text"
+       id="rect4949-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="109"
+       x="34"
+       id="rect4951-5" />
+  </g>
+  <g
+     id="north-minimized-center">
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="26"
+       y="109"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4957-0" />
+  </g>
+  <g
+     id="north-minimized-top">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="2"
+       width="26"
+       y="107"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4997-3" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="1"
+       width="26"
+       y="106"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4999-2" />
+  </g>
+  <g
+     id="north-minimized-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="106"
+       x="1"
+       id="rect4369-7-5-09-7" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="106"
+       x="2"
+       class="ColorScheme-Text"
+       id="rect5003-5-7" />
+  </g>
+  <g
+     id="north-minimized-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="106"
+       x="34"
+       id="rect4369-7-5-0-18" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="106"
+       x="31"
+       class="ColorScheme-Text"
+       id="rect5003-7" />
+  </g>
+  <g
+     id="north-minimized-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="26"
+       y="122"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4997-2-6" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="26"
+       y="124"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4999-0-5" />
+  </g>
+  <g
+     id="north-minimized-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="122"
+       x="1"
+       id="rect4369-7-5-0-5-9-7" />
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="122"
+       x="3"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8" />
+    <path
+       d="m 2,122 0,2 0,1 3,0 0,-1 -2,0 0,-2 z"
+       style="fill:none;stroke:none"
+       class="ColorScheme-Text"
+       id="path3643" />
+  </g>
+  <g
+     id="north-minimized-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="122"
+       x="34"
+       id="rect4369-7-5-0-5-9-7-2" />
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="122"
+       x="31"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-5" />
+    <path
+       d="m 31,125 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="fill:none;stroke:none"
+       class="ColorScheme-Text"
+       id="path3643-6" />
+  </g>
+  <g
+     style="fill:url(#linearGradient1565);fill-opacity:1;opacity:1"
+     id="minimized-left">
+    <rect
+       style="fill:#eaeaea;stroke:none;fill-opacity:0.99845892;opacity:0.2"
+       height="13"
+       width="2"
+       y="109"
+       x="39"
+       class="ColorScheme-Text"
+       id="rect4945-9-2-46" />
+    <rect
+       style="fill:#191919;stroke:none;fill-opacity:1;opacity:0.2"
+       height="13"
+       width="1"
+       y="109"
+       x="38"
+       class="ColorScheme-Text"
+       id="rect4949-9-2-8" />
+    <rect
+       style="fill:#323232;stroke:none;fill-opacity:1;opacity:0.001"
+       height="13"
+       width="1"
+       y="109"
+       x="37"
+       id="rect4951-3-2-6" />
+  </g>
+  <g
+     style="fill:url(#linearGradient1597);fill-opacity:1;opacity:1"
+     id="minimized-right">
+    <rect
+       style="fill:#eaeaea;stroke:none;fill-opacity:0.99845892;opacity:0.2"
+       height="13"
+       width="2"
+       y="109"
+       x="67"
+       class="ColorScheme-Text"
+       id="rect4945-8-3" />
+    <rect
+       style="fill:#191919;stroke:none;fill-opacity:1;opacity:0.2"
+       height="13"
+       width="1"
+       y="109"
+       x="69"
+       class="ColorScheme-Text"
+       id="rect4949-5-7" />
+    <rect
+       style="fill:#323232;stroke:none;fill-opacity:1;opacity:0.001"
+       height="13"
+       width="1"
+       y="109"
+       x="70"
+       id="rect4951-5-1" />
+  </g>
+  <g
+     style="fill:#323232;fill-opacity:1;opacity:0.5"
+     id="minimized-center">
+    <rect
+       style="fill:url(#linearGradient1685);stroke:none;fill-opacity:1;opacity:0.5"
+       height="13"
+       width="26"
+       y="109"
+       x="41"
+       class="ColorScheme-Text"
+       id="rect4957-0-98" />
+  </g>
+  <g
+     style="fill:url(#linearGradient1613);fill-opacity:1;opacity:1"
+     id="minimized-bottom">
+    <rect
+       style="fill:#191919;fill-opacity:1;stroke:none;opacity:0.2"
+       height="2"
+       width="26"
+       y="122"
+       x="41"
+       class="ColorScheme-Text"
+       id="rect4997-3-1" />
+    <rect
+       style="fill:#191919;fill-opacity:1;stroke:none;opacity:0.2"
+       height="1"
+       width="26"
+       y="124"
+       x="41"
+       class="ColorScheme-Text"
+       id="rect4999-2-3" />
+  </g>
+  <g
+     style="fill:url(#linearGradient1549);fill-opacity:1;opacity:1"
+     id="minimized-bottomleft">
+    <rect
+       style="fill:#323232;stroke:none;fill-opacity:1;opacity:0.001"
+       height="3"
+       width="1"
+       y="122"
+       x="37"
+       id="rect4369-7-5-09-7-43" />
+    <rect
+       style="fill:#191919;fill-opacity:1;stroke:none;opacity:0.2"
+       height="3"
+       width="3"
+       y="122"
+       x="38"
+       class="ColorScheme-Text"
+       id="rect5003-5-7-20" />
+  </g>
+  <g
+     style="fill:url(#linearGradient1605);fill-opacity:1;opacity:1"
+     id="minimized-bottomright">
+    <rect
+       style="fill:#323232;stroke:none;fill-opacity:1;opacity:0.001"
+       height="3"
+       width="1"
+       y="122"
+       x="70"
+       id="rect4369-7-5-0-18-96" />
+    <rect
+       style="fill:#191919;fill-opacity:1;stroke:none;opacity:0.2"
+       height="3"
+       width="3"
+       y="122"
+       x="67"
+       class="ColorScheme-Text"
+       id="rect5003-7-2" />
+  </g>
+  <g
+     style="fill:url(#linearGradient1581);fill-opacity:1;opacity:1"
+     id="minimized-top">
+    <rect
+       style="fill:#eaeaea;stroke:none;fill-opacity:0.99845892;opacity:0.2"
+       height="2"
+       width="26"
+       y="107"
+       x="41"
+       class="ColorScheme-Text"
+       id="rect4997-2-6-16" />
+    <rect
+       style="fill:#191919;stroke:none;fill-opacity:1;opacity:0.2"
+       height="1"
+       width="26"
+       y="106"
+       x="41"
+       class="ColorScheme-Text"
+       id="rect4999-0-5-1" />
+  </g>
+  <g
+     style="fill:url(#linearGradient1573);fill-opacity:1;opacity:1"
+     id="minimized-topleft">
+    <rect
+       style="fill:#323232;fill-opacity:1;stroke:none;opacity:0.001"
+       height="3"
+       width="1"
+       y="106"
+       x="37"
+       id="rect4369-7-5-0-5-9-7-22" />
+    <rect
+       style="fill:#eaeaea;stroke:none;fill-opacity:0.99845892;opacity:0.2"
+       height="2"
+       width="2"
+       y="107"
+       x="39"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-4" />
+    <path
+       d="m 38,109 0,-2 0,-1 3,0 0,1 -2,0 0,2 z"
+       style="fill:#191919;stroke:none;fill-opacity:1;opacity:0.2"
+       class="ColorScheme-Text"
+       id="path3643-75" />
+  </g>
+  <g
+     style="fill:url(#linearGradient1589);fill-opacity:1;opacity:1"
+     id="minimized-topright">
+    <rect
+       style="fill:#323232;stroke:none;fill-opacity:1;opacity:0.001"
+       height="3"
+       width="1"
+       y="106"
+       x="70"
+       id="rect4369-7-5-0-5-9-7-2-9" />
+    <rect
+       style="fill:#eaeaea;stroke:none;fill-opacity:0.99845892;opacity:0.2"
+       height="2"
+       width="2"
+       y="107"
+       x="67"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-5-1" />
+    <path
+       d="m 67,106 2,0 1,0 0,3 -1,0 0,-2 -2,0 z"
+       style="fill:#191919;stroke:none;fill-opacity:1;opacity:0.2"
+       class="ColorScheme-Text"
+       id="path3643-6-5" />
+  </g>
+  <g
+     id="east-minimized-left">
+    <rect
+       style="fill:none;stroke:none"
+       height="11"
+       width="2"
+       y="110"
+       x="74"
+       class="ColorScheme-Text"
+       id="rect4945-9-2-4-1-8-0" />
+    <rect
+       style="fill:none;stroke:none"
+       height="11"
+       width="1"
+       y="110"
+       x="73"
+       class="ColorScheme-Text"
+       id="rect4949-9-2-9-0-6-0" />
+  </g>
+  <g
+     id="east-minimized-right">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="11"
+       width="2"
+       y="110"
+       x="104"
+       class="ColorScheme-Text"
+       id="rect4945-8-1-3-0-2" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="11"
+       width="1"
+       y="110"
+       x="106"
+       class="ColorScheme-Text"
+       id="rect4949-5-5-6-8-4" />
+  </g>
+  <g
+     id="east-minimized-center">
+    <rect
+       style="fill:none;stroke:none"
+       height="11"
+       width="28"
+       y="110"
+       x="76"
+       class="ColorScheme-Text"
+       id="rect4957-0-5-7-4-43" />
+  </g>
+  <g
+     id="east-minimized-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="124"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-54" />
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="28"
+       y="121"
+       x="76"
+       class="ColorScheme-Text"
+       id="rect4997-3-9-4-2-7" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="123"
+       x="76"
+       class="ColorScheme-Text"
+       id="rect4999-2-9-0-6-1" />
+  </g>
+  <g
+     id="east-minimized-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="106"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-2" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="107"
+       x="104"
+       class="ColorScheme-Text"
+       id="rect5003-5-7-5-0-9-8" />
+  </g>
+  <g
+     id="east-minimized-bottomright">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="121"
+       x="104"
+       class="ColorScheme-Text"
+       id="rect5003-7-6-8-3-51" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="124"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-6" />
+  </g>
+  <g
+     id="east-minimized-top">
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="28"
+       y="108"
+       x="76"
+       class="ColorScheme-Text"
+       id="rect4997-2-6-2-7-7-7" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="107"
+       x="76"
+       class="ColorScheme-Text"
+       id="rect4999-0-5-7-0-9-6" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="106"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-4" />
+  </g>
+  <g
+     id="east-minimized-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="106"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-4" />
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="108"
+       x="74"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-9-3-4-7" />
+    <path
+       d="m 73,110 0,-2 0,-1 3,0 0,1 -2,0 0,2 z"
+       style="fill:none;stroke:none"
+       class="ColorScheme-Text"
+       id="path3643-1-0-7-47" />
+  </g>
+  <g
+     id="east-minimized-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="124"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-03" />
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="121"
+       x="74"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-5-7-4-2-33" />
+    <path
+       d="m 76,124 -2,0 -1,0 0,-3 1,0 0,2 2,0 z"
+       style="fill:none;stroke:none"
+       class="ColorScheme-Text"
+       id="path3643-6-3-5-7-19" />
+  </g>
+  <g
+     id="west-minimized-right">
+    <rect
+       style="fill:none;stroke:none"
+       height="11"
+       width="2"
+       y="110"
+       x="140"
+       class="ColorScheme-Text"
+       id="rect4945-9-2-4-1-8-0-7" />
+    <rect
+       style="fill:none;stroke:none"
+       height="11"
+       width="1"
+       y="110"
+       x="142"
+       class="ColorScheme-Text"
+       id="rect4949-9-2-9-0-6-0-1" />
+  </g>
+  <g
+     id="west-minimized-left">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="11"
+       width="2"
+       y="110"
+       x="110"
+       class="ColorScheme-Text"
+       id="rect4945-8-1-3-0-2-4" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="11"
+       width="1"
+       y="110"
+       x="109"
+       class="ColorScheme-Text"
+       id="rect4949-5-5-6-8-4-8" />
+  </g>
+  <g
+     id="west-minimized-center">
+    <rect
+       style="fill:none;stroke:none"
+       height="11"
+       width="28"
+       y="110"
+       x="112"
+       class="ColorScheme-Text"
+       id="rect4957-0-5-7-4-43-5" />
+  </g>
+  <g
+     id="west-minimized-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="124"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-54-9" />
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="28"
+       y="121"
+       x="112"
+       class="ColorScheme-Text"
+       id="rect4997-3-9-4-2-7-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="123"
+       x="112"
+       class="ColorScheme-Text"
+       id="rect4999-2-9-0-6-1-9" />
+  </g>
+  <g
+     id="west-minimized-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="106"
+       x="109"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-2-5" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="107"
+       x="109"
+       class="ColorScheme-Text"
+       id="rect5003-5-7-5-0-9-8-0" />
+  </g>
+  <g
+     id="west-minimized-bottomleft">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="121"
+       x="109"
+       class="ColorScheme-Text"
+       id="rect5003-7-6-8-3-51-4" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="124"
+       x="109.214"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-6-6" />
+  </g>
+  <g
+     id="west-minimized-top">
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="28"
+       y="108"
+       x="112"
+       class="ColorScheme-Text"
+       id="rect4997-2-6-2-7-7-7-0" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="107"
+       x="112"
+       class="ColorScheme-Text"
+       id="rect4999-0-5-7-0-9-6-4" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="106"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-4-9" />
+  </g>
+  <g
+     id="west-minimized-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="106"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-4-3" />
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="108"
+       x="140"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-9-3-4-7-0" />
+    <path
+       d="m 143,110 0,-2 0,-1 -3,0 0,1 2,0 0,2 z"
+       style="fill:none;stroke:none"
+       class="ColorScheme-Text"
+       id="path3643-1-0-7-47-6" />
+  </g>
+  <g
+     id="west-minimized-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="124"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-03-3" />
+    <rect
+       style="fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="121"
+       x="140"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-5-7-4-2-33-8" />
+    <path
+       d="m 140,124 2,0 1,0 0,-3 -1,0 0,2 -2,0 z"
+       style="fill:none;stroke:none"
+       class="ColorScheme-Text"
+       id="path3643-6-3-5-7-19-0" />
+  </g>
+  <g
+     id="group-expander-bottom">
+    <path
+       d="m 161.5,92 a 5.5,5.5 0 0 0 -5.5,5.5 a 5.5,5.5 0 0 0 5.5,5.5 a 5.5,5.5 0 0 0 5.5,-5.5 a 5.5,5.5 0 0 0 -5.5,-5.5 z"
+       style="opacity:0.25;fill:#ff7300;fill-opacity:0.80000001;stroke:none"
+       id="path4927" />
+    <path
+       d="m 161.5,93 a 4.5,4.5 0 0 0 -4.5,4.5 a 4.5,4.5 0 0 0 4.5,4.5 a 4.5,4.5 0 0 0 4.5,-4.5 a 4.5,4.5 0 0 0 -4.5,-4.5 z"
+       style="fill:#ff7300;fill-opacity:0.80000001;stroke:none"
+       id="path4931" />
+    <path
+       d="m 160.492,94.5 0,2 -2,0.014 0,1.987 2,0.011 0,2 1.987,0 0,-2 2,0 0,-2 -2.012,0 0.025,-2 z"
+       style="opacity:0.25;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       id="path4930" />
+    <path
+       d="m 161,95 0,2 -2,0.014 0,0.987 2,0.011 0,2 0.987,0 0,-2 2,0 0,-1 -2.012,0 0.025,-2 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4949" />
+  </g>
+  <g
+     id="group-expander-left">
+    <path
+       d="m 183.5,92 a 5.5,5.5 0 0 0 -5.5,5.5 a 5.5,5.5 0 0 0 5.5,5.5 a 5.5,5.5 0 0 0 5.5,-5.5 a 5.5,5.5 0 0 0 -5.5,-5.5 z"
+       style="opacity:0.25;fill:#ff7300;fill-opacity:0.80000001;stroke:none"
+       id="path4934" />
+    <path
+       d="m 183.5,93 a 4.5,4.5 0 0 0 -4.5,4.5 a 4.5,4.5 0 0 0 4.5,4.5 a 4.5,4.5 0 0 0 4.5,-4.5 a 4.5,4.5 0 0 0 -4.5,-4.5 z"
+       style="fill:#ff7300;fill-opacity:0.80000001;stroke:none"
+       id="path4938" />
+    <path
+       d="m 182.492,94.5 0,2 -2,0.014 0,1.987 2,0.011 0,2 1.987,0 0,-2 2,0 0,-2 -2.012,0 0.025,-2 z"
+       style="opacity:0.25;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       id="path4940" />
+    <path
+       d="m 183,95 0,2 -2,0.014 0,0.987 2,0.011 0,2 0.987,0 0,-2 2,0 0,-1 -2.012,0 0.025,-2 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4942" />
+  </g>
+  <g
+     id="group-expander-top">
+    <path
+       d="m 161.5,110 a 5.5,5.5 0 0 0 -5.5,5.5 a 5.5,5.5 0 0 0 5.5,5.5 a 5.5,5.5 0 0 0 5.5,-5.5 a 5.5,5.5 0 0 0 -5.5,-5.5 z"
+       style="opacity:0.25;fill:#ff7300;fill-opacity:0.80000001;stroke:none"
+       id="path4946" />
+    <path
+       d="m 161.5,111 a 4.5,4.5 0 0 0 -4.5,4.5 a 4.5,4.5 0 0 0 4.5,4.5 a 4.5,4.5 0 0 0 4.5,-4.5 a 4.5,4.5 0 0 0 -4.5,-4.5 z"
+       style="fill:#ff7300;fill-opacity:0.80000001;stroke:none"
+       id="path4950" />
+    <path
+       d="m 160.492,112.5 0,2 -2,0.014 0,1.987 2,0.011 0,2 1.987,0 0,-2 2,0 0,-2 -2.012,0 0.025,-2 z"
+       style="opacity:0.25;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       id="path4952" />
+    <path
+       d="m 161,113 0,2 -2,0.014 0,0.987 2,0.011 0,2 0.987,0 0,-2 2,0 0,-1 -2.012,0 0.025,-2 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4954" />
+  </g>
+  <g
+     id="group-expander-right">
+    <path
+       d="m 183.5,110 a 5.5,5.5 0 0 0 -5.5,5.5 a 5.5,5.5 0 0 0 5.5,5.5 a 5.5,5.5 0 0 0 5.5,-5.5 a 5.5,5.5 0 0 0 -5.5,-5.5 z"
+       style="opacity:0.25;fill:#ff7300;fill-opacity:0.80000001;stroke:none"
+       id="path4958" />
+    <path
+       d="m 183.5,111 a 4.5,4.5 0 0 0 -4.5,4.5 a 4.5,4.5 0 0 0 4.5,4.5 a 4.5,4.5 0 0 0 4.5,-4.5 a 4.5,4.5 0 0 0 -4.5,-4.5 z"
+       style="fill:#ff7300;fill-opacity:0.80000001;stroke:none"
+       id="path4962" />
+    <path
+       d="m 182.492,112.5 0,2 -2,0.014 0,1.987 2,0.011 0,2 1.987,0 0,-2 2,0 0,-2 -2.012,0 0.025,-2 z"
+       style="opacity:0.25;fill:#0f8cd7;fill-opacity:1;stroke:none"
+       id="path4964" />
+    <path
+       d="m 183,113 0,2 -2,0.014 0,0.987 2,0.011 0,2 0.987,0 0,-2 2,0 0,-1 -2.012,0 0.025,-2 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4966" />
+  </g>
+  <g
+     id="north-normal-left">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="13"
+       width="2"
+       y="46"
+       x="3"
+       class="ColorScheme-Text"
+       id="rect4945-9-2-8" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="46"
+       x="1"
+       id="rect4951-3-2-3" />
+  </g>
+  <g
+     id="north-normal-right">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="13"
+       width="2"
+       y="46"
+       x="31"
+       class="ColorScheme-Text"
+       id="rect4945-8-6" />
+    <rect
+       style="fill:none;stroke:none"
+       height="13"
+       width="1"
+       y="46"
+       x="34"
+       id="rect4951-5-33" />
+  </g>
+  <g
+     id="north-normal-center">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="13"
+       width="26"
+       y="46"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4957-0-4" />
+  </g>
+  <g
+     id="north-normal-top">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="2"
+       width="26"
+       y="44"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4997-3-7" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="1"
+       width="26"
+       y="43"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4999-2-1" />
+  </g>
+  <g
+     id="north-normal-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="43"
+       x="1"
+       id="rect4369-7-5-09-7-46" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="43"
+       x="2"
+       class="ColorScheme-Text"
+       id="rect5003-5-7-2" />
+  </g>
+  <g
+     id="north-normal-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="43"
+       x="34"
+       id="rect4369-7-5-0-18-5" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="43"
+       x="31"
+       class="ColorScheme-Text"
+       id="rect5003-7-5" />
+  </g>
+  <g
+     id="north-normal-bottom">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="3"
+       width="26"
+       y="59"
+       x="5"
+       class="ColorScheme-Text"
+       id="rect4997-2-6-6" />
+  </g>
+  <g
+     id="north-normal-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="59"
+       x="1"
+       id="rect4369-7-5-0-5-9-7-0" />
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="59"
+       x="3"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-50" />
+  </g>
+  <g
+     id="north-normal-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="3"
+       width="1"
+       y="59"
+       x="34"
+       id="rect4369-7-5-0-5-9-7-2-1" />
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="59"
+       x="31"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-5-6" />
+  </g>
+  <g
+     id="east-normal-left">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="11"
+       width="3"
+       y="47"
+       x="73"
+       class="ColorScheme-Text"
+       id="rect4945-9-2-4-1-8-1" />
+  </g>
+  <g
+     id="east-normal-right">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="11"
+       width="2"
+       y="47"
+       x="104"
+       class="ColorScheme-Text"
+       id="rect4945-8-1-3-0-9" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="11"
+       width="1"
+       y="47"
+       x="106"
+       class="ColorScheme-Text"
+       id="rect4949-5-5-6-8-0" />
+  </g>
+  <g
+     id="east-normal-center">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="11"
+       width="28"
+       y="47"
+       x="76"
+       class="ColorScheme-Text"
+       id="rect4957-0-5-7-4-0" />
+  </g>
+  <g
+     id="east-normal-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="61"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-96" />
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="28"
+       y="58"
+       x="76"
+       class="ColorScheme-Text"
+       id="rect4997-3-9-4-2-1" />
+  </g>
+  <g
+     id="east-normal-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="43"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-4" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="44"
+       x="104"
+       class="ColorScheme-Text"
+       id="rect5003-5-7-5-0-9-2" />
+  </g>
+  <g
+     id="east-normal-bottomright">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3.000001"
+       width="3"
+       y="58"
+       x="104"
+       class="ColorScheme-Text"
+       id="rect5003-7-6-8-3-4" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="61"
+       x="104"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-5" />
+  </g>
+  <g
+     id="east-normal-top">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="28"
+       y="45"
+       x="76"
+       class="ColorScheme-Text"
+       id="rect4997-2-6-2-7-7-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="43"
+       x="76"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-8" />
+  </g>
+  <g
+     id="east-normal-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="43"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-9" />
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="45"
+       x="74"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-9-3-4-8" />
+  </g>
+  <g
+     id="east-normal-bottomleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="61"
+       x="73"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-8" />
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="58"
+       x="74"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-5-7-4-2-3" />
+  </g>
+  <g
+     id="west-normal-right">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="11"
+       width="3"
+       y="47"
+       x="140"
+       class="ColorScheme-Text"
+       id="rect4945-9-2-4-1-8-1-7" />
+  </g>
+  <g
+     id="west-normal-left">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="11"
+       width="2"
+       y="47"
+       x="110"
+       class="ColorScheme-Text"
+       id="rect4945-8-1-3-0-9-4" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="11"
+       width="1"
+       y="47"
+       x="109"
+       class="ColorScheme-Text"
+       id="rect4949-5-5-6-8-0-2" />
+  </g>
+  <g
+     id="west-normal-center">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="11"
+       width="28"
+       y="47"
+       x="112"
+       class="ColorScheme-Text"
+       id="rect4957-0-5-7-4-0-3" />
+  </g>
+  <g
+     id="west-normal-bottom">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="61"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-96-6" />
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="28"
+       y="58"
+       x="112"
+       class="ColorScheme-Text"
+       id="rect4997-3-9-4-2-1-0" />
+  </g>
+  <g
+     id="west-normal-topleft">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="43"
+       x="109"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-2-4-4" />
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="44"
+       x="109"
+       class="ColorScheme-Text"
+       id="rect5003-5-7-5-0-9-2-4" />
+  </g>
+  <g
+     id="west-normal-bottomleft">
+    <rect
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none"
+       height="3"
+       width="3"
+       y="58"
+       x="109"
+       class="ColorScheme-Text"
+       id="rect5003-7-6-8-3-4-5" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="2.786"
+       y="61"
+       x="109.214"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-5-8" />
+  </g>
+  <g
+     id="west-normal-top">
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="28"
+       y="45"
+       x="112"
+       class="ColorScheme-Text"
+       id="rect4997-2-6-2-7-7-5-7" />
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="28"
+       y="43"
+       x="112"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-8-8" />
+  </g>
+  <g
+     id="west-normal-topright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="43"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-9-7" />
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="45"
+       x="140"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-9-3-4-8-9" />
+  </g>
+  <g
+     id="west-normal-bottomright">
+    <rect
+       style="fill:none;stroke:none"
+       height="1"
+       width="3"
+       y="61"
+       x="140"
+       id="rect4369-7-5-0-5-9-7-0-5-1-0-2-8-3" />
+    <rect
+       style="color:#31363b;fill:none;stroke:none"
+       height="2"
+       width="2"
+       y="58"
+       x="140"
+       class="ColorScheme-Text"
+       id="rect5003-5-6-8-5-7-4-2-3-0" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-left"
+     style="opacity:1;fill:url(#linearGradient1839);fill-opacity:1">
+    <rect
+       id="rect1763"
+       class="ColorScheme-Text"
+       x="39"
+       y="109"
+       width="2"
+       height="13"
+       style="opacity:0.2;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <rect
+       id="rect1765"
+       class="ColorScheme-Text"
+       x="38"
+       y="109"
+       width="1"
+       height="13"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1767"
+       x="37"
+       y="109"
+       width="1"
+       height="13"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-right"
+     style="opacity:1;fill:url(#linearGradient1837);fill-opacity:1">
+    <rect
+       id="rect1771"
+       class="ColorScheme-Text"
+       x="67"
+       y="109"
+       width="2"
+       height="13"
+       style="opacity:0.2;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <rect
+       id="rect1773"
+       class="ColorScheme-Text"
+       x="69"
+       y="109"
+       width="1"
+       height="13"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1775"
+       x="70"
+       y="109"
+       width="1"
+       height="13"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-center"
+     style="opacity:0.5;fill:#323232;fill-opacity:1">
+    <rect
+       id="rect1779"
+       class="ColorScheme-Text"
+       x="41"
+       y="109"
+       width="26"
+       height="13"
+       style="opacity:0.5;fill:url(#linearGradient1835);fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-bottom"
+     style="opacity:1;fill:url(#linearGradient1833);fill-opacity:1">
+    <rect
+       id="rect1783"
+       class="ColorScheme-Text"
+       x="41"
+       y="122"
+       width="26"
+       height="2"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1785"
+       class="ColorScheme-Text"
+       x="41"
+       y="124"
+       width="26"
+       height="1"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-bottomleft"
+     style="opacity:1;fill:url(#linearGradient1831);fill-opacity:1">
+    <rect
+       id="rect1789"
+       x="37"
+       y="122"
+       width="1"
+       height="3"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1791"
+       class="ColorScheme-Text"
+       x="38"
+       y="122"
+       width="3"
+       height="3"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-bottomright"
+     style="opacity:1;fill:url(#linearGradient1829);fill-opacity:1">
+    <rect
+       id="rect1795"
+       x="70"
+       y="122"
+       width="1"
+       height="3"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1797"
+       class="ColorScheme-Text"
+       x="67"
+       y="122"
+       width="3"
+       height="3"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-top"
+     style="opacity:1;fill:url(#linearGradient1827);fill-opacity:1">
+    <rect
+       id="rect1801"
+       class="ColorScheme-Text"
+       x="41"
+       y="107"
+       width="26"
+       height="2"
+       style="opacity:0.2;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <rect
+       id="rect1803"
+       class="ColorScheme-Text"
+       x="41"
+       y="106"
+       width="26"
+       height="1"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-topleft"
+     style="opacity:1;fill:url(#linearGradient1825);fill-opacity:1">
+    <rect
+       id="rect1807"
+       x="37"
+       y="106"
+       width="1"
+       height="3"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1809"
+       class="ColorScheme-Text"
+       x="39"
+       y="107"
+       width="2"
+       height="2"
+       style="opacity:0.2;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <path
+       id="path1811"
+       class="ColorScheme-Text"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       d="m 38,109 v -2 -1 h 3 v 1 h -2 v 2 z" />
+  </g>
+  <g
+     transform="translate(0,-63)"
+     id="normal-topright"
+     style="opacity:1;fill:url(#linearGradient1823);fill-opacity:1">
+    <rect
+       id="rect1815"
+       x="70"
+       y="106"
+       width="1"
+       height="3"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1817"
+       class="ColorScheme-Text"
+       x="67"
+       y="107"
+       width="2"
+       height="2"
+       style="opacity:0.2;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <path
+       id="path1819"
+       class="ColorScheme-Text"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       d="m 67,106 h 2 1 v 3 h -1 v -2 h -2 z" />
+  </g>
+  <g
+     id="focus-left"
+     style="opacity:1;fill:url(#linearGradient1672);fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1595"
+       class="ColorScheme-Text"
+       x="39"
+       y="109"
+       width="2"
+       height="13"
+       style="opacity:0.6;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <rect
+       id="rect1597"
+       class="ColorScheme-Text"
+       x="38"
+       y="109"
+       width="1"
+       height="13"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1599"
+       x="37"
+       y="109"
+       width="1"
+       height="13"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-right"
+     style="opacity:1;fill:url(#linearGradient1670);fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1603"
+       class="ColorScheme-Text"
+       x="67"
+       y="109"
+       width="2"
+       height="13"
+       style="opacity:0.6;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <rect
+       id="rect1605"
+       class="ColorScheme-Text"
+       x="69"
+       y="109"
+       width="1"
+       height="13"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1607"
+       x="70"
+       y="109"
+       width="1"
+       height="13"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-center"
+     style="opacity:1;fill:#323232;fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1611"
+       class="ColorScheme-Text"
+       x="41"
+       y="109"
+       width="26"
+       height="13"
+       style="opacity:0.8;fill:url(#linearGradient1668);fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-bottom"
+     style="opacity:1;fill:url(#linearGradient1666);fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1615"
+       class="ColorScheme-Text"
+       x="41"
+       y="122"
+       width="26"
+       height="2"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1617"
+       class="ColorScheme-Text"
+       x="41"
+       y="124"
+       width="26"
+       height="1"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-bottomleft"
+     style="opacity:1;fill:url(#linearGradient1664);fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1621"
+       x="37"
+       y="122"
+       width="1"
+       height="3"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1623"
+       class="ColorScheme-Text"
+       x="38"
+       y="122"
+       width="3"
+       height="3"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-bottomright"
+     style="opacity:1;fill:url(#linearGradient1662);fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1627"
+       x="70"
+       y="122"
+       width="1"
+       height="3"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1629"
+       class="ColorScheme-Text"
+       x="67"
+       y="122"
+       width="3"
+       height="3"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-top"
+     style="opacity:1;fill:url(#linearGradient1660);fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1633"
+       class="ColorScheme-Text"
+       x="41"
+       y="107"
+       width="26"
+       height="2"
+       style="opacity:0.6;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <rect
+       id="rect1635"
+       class="ColorScheme-Text"
+       x="41"
+       y="106"
+       width="26"
+       height="1"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-topleft"
+     style="opacity:1;fill:url(#linearGradient1658);fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1639"
+       x="37"
+       y="106"
+       width="1"
+       height="3"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1641"
+       class="ColorScheme-Text"
+       x="39"
+       y="107"
+       width="2"
+       height="2"
+       style="opacity:0.6;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <path
+       id="path1643"
+       class="ColorScheme-Text"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       d="m 38,109 v -2 -1 h 3 v 1 h -2 v 2 z" />
+  </g>
+  <g
+     id="focus-topright"
+     style="opacity:1;fill:url(#linearGradient1656);fill-opacity:1"
+     transform="translate(0,-84)">
+    <rect
+       id="rect1647"
+       x="70"
+       y="106"
+       width="1"
+       height="3"
+       style="opacity:0.00100002;fill:#323232;fill-opacity:1;stroke:none" />
+    <rect
+       id="rect1649"
+       class="ColorScheme-Text"
+       x="67"
+       y="107"
+       width="2"
+       height="2"
+       style="opacity:0.6;fill:#eaeaea;fill-opacity:0.998459;stroke:none" />
+    <path
+       id="path1651"
+       class="ColorScheme-Text"
+       style="opacity:0.2;fill:#191919;fill-opacity:1;stroke:none"
+       d="m 67,106 h 2 1 v 3 h -1 v -2 h -2 z" />
+  </g>
+</svg>
