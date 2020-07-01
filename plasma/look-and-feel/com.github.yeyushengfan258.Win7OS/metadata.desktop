@@ -17,5 +17,5 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Win7OS-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1394303,kns://plasma-themes.knsrc/api.kde-look.org/1394309,kns://aurorae.knsrc/api.kde-look.org/1394305,kns://icons.knsrc/api.kde-look.org/1366371,kns://wallpaper.knsrc/api.kde-look.org/1394302,kns://sddmtheme.knsrc/api.kde-look.org/1394308
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1394303,kns://plasma-themes.knsrc/api.kde-look.org/1394309,kns://aurorae.knsrc/api.kde-look.org/1394305,kns://icons.knsrc/api.kde-look.org/1366371,kns://wallpaper.knsrc/api.kde-look.org/1394302,kns://sddmtheme.knsrc/api.kde-look.org/1394308,kns://xcursor.knsrc/api.kde-look.org/1397988
 X-Plasma-MainScript=defaults
